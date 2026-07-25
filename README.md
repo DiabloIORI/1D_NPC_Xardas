@@ -2,6 +2,8 @@
 
 Il vous attend près de l'entrée du donjon de'Arnise.
 
+<img src="(https://github.com/Plutonium-X/1D_NPC_Xardas/blob/main/Xardas/ScreenShot-Xardas.jpg)" />
+
 Particularités :
 - Caractéristiques : FOR 12, DEX 18, CON 14, INT 20, SAG 19, CHA 17.
 - Son dialogue se résume à sa présentation.
