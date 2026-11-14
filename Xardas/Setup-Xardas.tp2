@@ -14,7 +14,11 @@ LANGUAGE ~Francais pour oBG2~
 LANGUAGE ~Francais pour BG2EE~
          ~frenchEE~
          ~Xardas/Tra/FrenchEE/Setup-Xardas.tra~
-		 
+
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~Xardas/Tra/Schinese/Setup-Xardas.tra~
+
 BEGIN @0
 
 EXTEND_TOP ~AR1300.BCS~	~Xardas/AR1300.baf~
